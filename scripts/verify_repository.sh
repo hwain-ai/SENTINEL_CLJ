@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env -S -i PATH=/usr/bin:/bin LANG=C.UTF-8 LC_ALL=C.UTF-8 /usr/bin/bash --noprofile --norc
 set -euo pipefail
 
 readonly expected_user_name="황화인"

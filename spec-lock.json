@@ -1,0 +1,17 @@
+{
+  "files": [
+    {
+      "path": "test-resources/golden/crap/formula-v1.json",
+      "sha256": "c49493dc25c841af08efd6b1984fdeae47b54a5345e71dea137de96c45fe8884"
+    },
+    {
+      "path": "test-resources/golden/crap/stable-sort-v1.json",
+      "sha256": "921f87cdb842042fad914147c2d4daded2654175088c9284abc3cff0cbff1f06"
+    },
+    {
+      "path": "test-resources/golden/gate/mutation-v1.json",
+      "sha256": "10a72c7fc59f3ca89ba9a7c7985c17f156f4aac86f2513f585efbfb46c686dbc"
+    }
+  ],
+  "schemaVersion": "sentinel-spec-lock-v1"
+}

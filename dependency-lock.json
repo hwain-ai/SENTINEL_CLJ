@@ -1,0 +1,50 @@
+{
+  "artifacts": [
+    {
+      "artifact": "org.clojure/clojure",
+      "fileName": "clojure-1.12.0.jar",
+      "sha256": "c45333006441a059ea9fdb1341fc6c1f40b921a10dccd82665311e48a0384763",
+      "sizeBytes": 4227052,
+      "url": "https://repo.maven.apache.org/maven2/org/clojure/clojure/1.12.0/clojure-1.12.0.jar",
+      "version": "1.12.0"
+    },
+    {
+      "artifact": "org.clojure/core.specs.alpha",
+      "fileName": "core.specs.alpha-0.4.74.jar",
+      "sha256": "eb73ac08cf49ba840c88ba67beef11336ca554333d9408808d78946e0feb9ddb",
+      "sizeBytes": 4306,
+      "url": "https://repo.maven.apache.org/maven2/org/clojure/core.specs.alpha/0.4.74/core.specs.alpha-0.4.74.jar",
+      "version": "0.4.74"
+    },
+    {
+      "artifact": "org.clojure/data.json",
+      "fileName": "data.json-2.5.1.jar",
+      "sha256": "6da57351e334173c85dea1696c7d4847a4f3e11dbaeb397da65e7a26849e94b3",
+      "sizeBytes": 10235,
+      "url": "https://repo.maven.apache.org/maven2/org/clojure/data.json/2.5.1/data.json-2.5.1.jar",
+      "version": "2.5.1"
+    },
+    {
+      "artifact": "org.clojure/spec.alpha",
+      "fileName": "spec.alpha-0.5.238.jar",
+      "sha256": "94cd99b6ea639641f37af4860a643b6ed399ee5a8be5d717cff0b663c8d75077",
+      "sizeBytes": 636643,
+      "url": "https://repo.maven.apache.org/maven2/org/clojure/spec.alpha/0.5.238/spec.alpha-0.5.238.jar",
+      "version": "0.5.238"
+    },
+    {
+      "artifact": "org.clojure/tools.reader",
+      "fileName": "tools.reader-1.4.2.jar",
+      "sha256": "5dc0702625e3d829a4a957355c7cbf966cd4470086494eb6169e6ca86543e881",
+      "sizeBytes": 52554,
+      "url": "https://repo.maven.apache.org/maven2/org/clojure/tools.reader/1.4.2/tools.reader-1.4.2.jar",
+      "version": "1.4.2"
+    }
+  ],
+  "configuration": {
+    "path": "deps.edn",
+    "sha256": "09b411c0057cdc37e6d8c0beb79ec676f7faa2d1fd54078e3804543c295d8544",
+    "sizeBytes": 203
+  },
+  "schemaVersion": "sentinel-dependency-lock-v1"
+}

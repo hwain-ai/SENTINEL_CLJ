@@ -1,5 +1,43 @@
 {
   "repository": "SENTINEL_CLJ",
-  "status": "bootstrap-pending",
-  "toolchains": {}
+  "schemaVersion": "sentinel-toolchain-lock-v1",
+  "status": "locked",
+  "toolchains": {
+    "clojure-cli": {
+      "archive": {
+        "rootDirectory": "clojure-tools",
+        "sha256": "77dd6868948074adcc93e83a796f8e8f15a1a92bcb1b9002d715fd2210e476f3",
+        "sizeBytes": 12323589,
+        "url": "https://download.clojure.org/install/clojure-tools-1.12.5.1664.tar.gz"
+      },
+      "executable": {
+        "relativePath": "bin/clojure",
+        "sha256": "d54ccb0a96c520bec50327fdbcc1865e6400a8d69159a43683f5fb117d2c6b8b"
+      },
+      "installDirectory": "clojure-cli-1.12.5.1664",
+      "installedTree": {
+        "entries": 15,
+        "sha256": "fef4af16f687ea21619f65ec45051b9a3f20aceda6dd217bc5b20d544bc194e5"
+      },
+      "version": "1.12.5.1664"
+    },
+    "java": {
+      "archive": {
+        "rootDirectory": "jdk-17.0.20.1+1",
+        "sha256": "3808d1d15e3ec6bd5b84057fb5d84c33d8a1536a258146bcea2e603fc726e08e",
+        "sizeBytes": 193252603,
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jdk_x64_linux_hotspot_17.0.20.1_1.tar.gz"
+      },
+      "executable": {
+        "relativePath": "bin/java",
+        "sha256": "f5aed21d3a0b0f4b05d3a3f9fe71263916d5bc0d47b53aa52a3340b90f0b4805"
+      },
+      "installDirectory": "temurin-17.0.20.1+1",
+      "installedTree": {
+        "entries": 543,
+        "sha256": "0c93f50f5785966024df438e461dd0b358b066e25725e5d05874ff7864e514e0"
+      },
+      "version": "17.0.20.1+1"
+    }
+  }
 }
