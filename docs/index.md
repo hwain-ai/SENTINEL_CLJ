@@ -12,4 +12,5 @@ okf_version: "0.2"
 
 ## 운영 기록
 
+* [실행 환경 검증 기록](sentinel-clojure-native-validation.md) - 실행 환경·의존성·clj-mutate 설치 확인 범위
 * [변경 기록](log.md) - 문서 번들의 생성과 변경 내역
